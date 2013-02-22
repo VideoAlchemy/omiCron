@@ -21,3 +21,7 @@
 >###v.02 rota-rrrus (Feb 2013)
 - adding an iPad controller using Touch OSC
 - gives rrrus a place to experiment with adding the vector flow algorithms
+
+##ToDO
+- [] add links to flickr albums of the events and the construction
+- [] Incorporate Touch OSC controls
