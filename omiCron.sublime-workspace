@@ -1,0 +1,258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"web",
+				"webapp2"
+			],
+			[
+				"C",
+				"CGI"
+			],
+			[
+				"_driver",
+				"_driverChrome"
+			],
+			[
+				"lo",
+				"logfile"
+			],
+			[
+				"browserO",
+				"browserOpenDuration"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Marked.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/SubThree/Dropbox/CatalogSpree_jayFiles/pado-QA/padoMonitor/padoMonitor.py",
+		"/Users/Jai/Downloads/MySQL-python-1.2.3/setup.py",
+		"/Users/Jai/Downloads/MySQL-python-1.2.3/site.cfg",
+		"/Users/Jai/.bash_profile",
+		"/Volumes/SubThree/Dropbox/_code/QA-Jay/GoogleAppsEngine/helloworld/helloworld.py",
+		"/Volumes/SubThree/Dropbox/_code/QA-Jay/GoogleAppsEngine/helloworld/app.yaml",
+		"/Users/Jai/.MacOSX/environment.plist",
+		"/Volumes/SubThree/Dropbox/CatalogSpree_jayFiles/pado-QA/padoMonitor/app.yaml",
+		"/Volumes/SubThree/Dropbox/_code/QA-Jay/README.md",
+		"//bin/mkdir",
+		"/Users/Jai/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/SubThree/Dropbox/_ITP_js5346/Processing/_ITP_Processing/ITP_Thesis_archive/x_IntelligentHealingSpaces/README",
+		"/Users/Jai/.ssh/known_hosts",
+		"/Volumes/SubThree/Dropbox/_code/portnovQA/README.md",
+		"/padopolis/dev-padolib/_config/CatalogSpree/en/_private/library-root-element.xml",
+		"/padopolis/dev-padolib/_config/CatalogSpree/en/configDB.Everest.xml",
+		"/padopolis/dev-padolib/_config/CatalogSpree/en/configDB.DubaiB.xml",
+		"/padopolis/dev-padolib/_config/CatalogSpree.configDB.en.xml",
+		"/Volumes/SubThree/Dropbox/CatalogSpree_jayFiles/pado-QA/iOS/productOverlayLoop.js",
+		"/Volumes/SubThree/Dropbox/CatalogSpree_jayFiles/pado-QA/iOS/runUIAutoTest.py",
+		"/Users/Jai/bin/appendPathForGit.sh",
+		"/Users/Jai/bin/padoGitPull.sh",
+		"/Volumes/SubThree/Dropbox/Public/redirects/dev.html",
+		"/padopolis/ios-catalog-spree/Bundles/catalogspree-appstore/en.lproj/ConfigDB.xml",
+		"/Volumes/SubThree/Dropbox/CatalogSpree_jayFiles/pado-QA/README.md",
+		"/padopolis/dev-padolib/_config/CatalogSpree/en/configDB.Dubai.xml",
+		"/padopolis/dev-padolib/_config/CatalogSpree/en/configDB.Cozumel.xml",
+		"/Users/Jai/bin/uTest_iOS.sh",
+		"/Volumes/SubThree/Dropbox/CatalogSpree_jayFiles/testAutomation/autoUserFlows_01.py",
+		"/Volumes/SubThree/Dropbox/CatalogSpree_jayFiles/testAutomation/selenium_test_04_shopViews.py",
+		"/Volumes/SubThree/Dropbox/CatalogSpree_jayFiles/testAutomation/webdriverTest_02.py",
+		"/Volumes/SubThree/Dropbox/CatalogSpree_jayFiles/testAutomation/webdriverTest_03.py",
+		"/Users/Jai/Library/Application Support/Notational Data/pXuTestDocs_iOS_2012.11.14_CommonScenarios_and_Workflow_4.2(Dubai-B).html",
+		"/Volumes/SubThree/Dropbox/_code/videoAlchemy/README.md",
+		"/Volumes/SubThree/Dropbox/_code/videoAlchemyO/README.md",
+		"/Users/Jai/.git/config",
+		"/Users/Jai/.gitconfig",
+		"/Volumes/SubThree/Dropbox/_code/videoAlchemy/rotaFortunae/rota_Radiance_dev/rota_Radiance_dev.pde",
+		"/Volumes/SubThree/Dropbox/Documents/logKext_keyLogger/2011.10.18-2012.10.11",
+		"/Volumes/SubThree/Dropbox/_ITP_js5346/Processing/VideoAlchemy/README.mdown",
+		"/private/etc/group",
+		"/private/var/lock/LK.029.018.000",
+		"/Volumes/SubThree/Dropbox/_code/VideoAlchemy/README.md",
+		"/Volumes/SubThree/Dropbox/_code/VideoAlchemy/VIDEOALCHEMY-FRONT.jpg",
+		"/Volumes/SubThree/Dropbox/_code/VideoAlchemy/README.mdown",
+		"/Volumes/SubThree/Dropbox/_code/VideoAlchemy/Controller/RadianceController/README",
+		"/Volumes/SubThree/Dropbox/_code/Arduino/VideoAlchemy_Controller/VideoAlchemy_Controller.ino",
+		"/Volumes/SubThree/Dropbox/Public/redirects/production.html",
+		"/Volumes/SubThree/Dropbox/_code/python/examples/addEntries2.py",
+		"/Volumes/SubThree/Dropbox/_code/python/examples/addEntries.py",
+		"/padopolis/padoshop/js/Browser.js",
+		"/Volumes/SubThree/Dropbox/_code/VideoAlchemy/README.mmd.md",
+		"/Users/Jai/Library/Logs/padoGitPull.log",
+		"/Users/Jai/Desktop/phpinfo.php",
+		"/Library/WebServer/Documents/LogKext Readme.html",
+		"/Users/Jai/Sites/devRedirects.html",
+		"/Users/Jai/Sites/redirectStaging.html",
+		"/Users/Jai/Sites/index.html",
+		"/Users/Jai/Sites/stagingRedirects.html",
+		"/Users/Jai/Sites/redirects/stagingRedirects.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"padoMonitor",
+			"helloworld",
+			"helloWorld",
+			"padospeed",
+			"target=",
+			"_driver",
+			"h4",
+			"h6",
+			"h5",
+			"h2",
+			"h5",
+			"b",
+			"h5",
+			"timers",
+			"development",
+			"h2",
+			"staging",
+			"h2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true
+}
